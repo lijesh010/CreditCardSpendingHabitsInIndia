@@ -7,8 +7,13 @@ Link to Dataset: https://www.kaggle.com/datasets/thedevastator/analyzing-credit-
 ## Usage
 The dataset can be used for various purposes, including:
 
-### Exploratory Data Analysis: Uncover patterns, trends, and relationships within the data to gain a better understanding of credit card spending habits in India.
-### Predictive Modeling: Develop models to forecast customer spending behavior and predict future trends.
-### Customer Segmentation: Analyze the data to identify distinct customer segments based on spending habits, demographics, or other variables.
-### Business Intelligence: Extract actionable insights to optimize marketing strategies, enhance customer experiences, or identify potential growth opportunities.
-### Research: Conduct research on credit card usage, consumer behavior, or related topics in the Indian context.
+### Exploratory Data Analysis: 
+Uncover patterns, trends, and relationships within the data to gain a better understanding of credit card spending habits in India.
+### Predictive Modeling: 
+Develop models to forecast customer spending behavior and predict future trends.
+### Customer Segmentation: 
+Analyze the data to identify distinct customer segments based on spending habits, demographics, or other variables.
+### Business Intelligence: 
+Extract actionable insights to optimize marketing strategies, enhance customer experiences, or identify potential growth opportunities.
+### Research: 
+Conduct research on credit card usage, consumer behavior, or related topics in the Indian context.
