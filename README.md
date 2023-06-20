@@ -17,3 +17,7 @@ Analyze the data to identify distinct customer segments based on spending habits
 Extract actionable insights to optimize marketing strategies, enhance customer experiences, or identify potential growth opportunities.
 ### Research: 
 Conduct research on credit card usage, consumer behavior, or related topics in the Indian context.
+
+## Dashboard.
+![image](https://github.com/lijesh010/CreditCardSpendingHabitsInIndia/assets/131745794/b84e0248-9530-4c68-a908-16792b869e52)
+
